@@ -13,3 +13,6 @@ npm i
 node server.js
 ```
 Then open http://localhost:3000/ in your browser. Have Fun!
+
+
+![image](https://github.com/MimoTooThanks/progresstracker/assets/46490625/8838a98d-6c41-4389-ace3-2ada6c165460)
